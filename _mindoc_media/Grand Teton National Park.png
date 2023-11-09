@@ -34,9 +34,9 @@ date_created_(IPTC):
 
   
 
-_path: /assets/img/main_page.jpg
+_path: assets/img/Grand Teton National Park.png
 
-order:  
+order:  '1'
 
 layout: 
 
