@@ -3,10 +3,10 @@ page: source
 title: Image_№1_from_Source
 media_type: image
 
-_title: Apple tree
+_title: Tetons
 description: Main page photo
 creator: Unknown
-_date: Unknown
+_date: 1950
 rights: 
 type: 
 source:
@@ -16,15 +16,15 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: https://a.storyblok.com/f/116736/1000x666/97564b8080/main.jpeg 
+_path: assets/img/Grand-Teton-National-Park.jpeg
 order: '01'
 layout: image_description
 ---
 
-_title: Apple tree
+_title: Tetons
 description: Main page photo
 creator: Unknown
-_date: Unknown
+_date: 1950
 rights: 
 type: 
 source:
