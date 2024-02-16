@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supplements
+title: Credits and Acknowledgements
 number: 007 
 ---
 
