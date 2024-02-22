@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About the MinDoc Template
+title: About MinDoc Template
 number: 010
 ---
 
