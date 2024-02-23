@@ -17,6 +17,6 @@ MY WONDEFUL SOURCES part 2
 
 {% include media.html pages=media %}
 
-{% assign media = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '04'" %} 
+{% assign media = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source'" | where_exp: "item", "item.media_type == 'image'" %} 
 
 {% include media.html pages=media %} 
